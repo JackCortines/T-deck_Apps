@@ -68,7 +68,7 @@ That said, if you have an idea that sounds even remotely practical, go ahead and
 
 # Storage Limitations
 
-The `wada.fs` filesystem has limited space, which can make larger applications difficult to fit.
+The `wada.fs` filesystem has limited space (32KB), which can make larger applications difficult to fit.
 
 This is especially noticeable with text-heavy applications. The complete Bible, for example, is simply too large to fit within the current limits as a single application.
 
@@ -120,4 +120,4 @@ This is mostly a project for fun. I like the T-Deck and wanted to see what usefu
 
 If you find something useful here, great. If you find a bug, let me know. And if you have an idea for another app, open an issue.
 
-Thanks for checking it out, and happy meshing
+Thanks for checking it out, and happy meshing!
