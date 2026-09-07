@@ -24,6 +24,12 @@ The exact process may vary depending on your hardware and firmware version.
 
 ---
 
+# How to get the files:
+Copy the raw file, then create a new file named <App_Name>.lua
+What you name the file will determine what it appears as on the T-Deck.
+
+---
+
 # Romans
 
 Romans is a simple app for reading the Book of Romans from the Holy Bible directly on your T-Deck.
