@@ -30,36 +30,6 @@ What you name the file will determine what it appears as on the T-Deck.
 
 ---
 
-# Romans
-
-Romans is a simple app for reading the Book of Romans from the Holy Bible directly on your T-Deck.
-
-I originally tried getting the entire Bible to work, but the file was too large for the 32KB `wada.fs` limit. Rather than give up on the idea, I started with individual books.
-
-The current version uses the Berean Standard Bible (BSB).
-
-## Other Books
-
-Requests for other books are welcome. [Open an issue](https://github.com/JackCortines/T-deck_Apps/issues/new) and let me know what you'd like.
-
-Because of copyright and licensing restrictions, I can only include translations that I am permitted to distribute. At the moment, that means the BSB and KJV.
-
-Some books may also need to be split into multiple sections because of the available storage.
-
-I'd like to add more books over time and possibly improve navigation and other features as the project develops.
-
----
-
-# Calculator
-
-A simple calculator app for the T-Deck.
-
-The goal was to have a basic calculator available directly on the device rather than relying on whatever calculator happens to be included with a particular mesh interface.
-
-It's intentionally simple, but I'm open to suggestions for improvements.
-
----
-
 # App Requests
 
 If there's an app you'd like to see, [open an issue](https://github.com/JackCortines/T-deck_Apps/issues/new) and tell me what you have in mind.
